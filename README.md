@@ -49,7 +49,7 @@ while(true){
 </p>
 
 <h3 align="left">  My GitHub stats! </h3>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagaress&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesega&show_icons=true&theme=tokyonight)
 
 <!---
 Jesega/Jesega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
