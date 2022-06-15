@@ -1,11 +1,15 @@
 <h1 align="center"> Hi! I'm Jesús Serrano (@Jesega), nice to meet you! 👋 </h1>
 <h3 align="center"> I'm a Junior Software Developer looking forward to learn as much as possible! </h3>
+
+
+
+I consider myself a passionate Software Developer who looks forward to work on software projects. You never know enough, so I like to  be in a continuous learning procedure. Currently I'm finishing my Computer Science Degree at University of Cadiz. I only have to present my end-of-degree project!
+
 ```python
 while(true){
   learn()
 }
 ```
-I consider myself a passionate Software Developer who looks forward to work on software projects. You never know enough, so I like to  be in a continuous learning procedure. Currently I'm finishing my Computer Science Degree at University of Cadiz. I only have to present my end-of-degree project!
 
 - 👋 Hi, I’m @Jesega
 - 👀 I’m interested in ...
