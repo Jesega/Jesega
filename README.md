@@ -1,5 +1,10 @@
 <h1 align="center"> Hi! I'm Jesús Serrano (@Jesega), nice to meet you! 👋 </h1>
 <h3 align="center"> I'm a Junior Software Developer looking forward to learn as much as possible! </h3>
+I consider myself a passionate Software Developer who looks forward to work on software projects. You never know enough, so I like to  be in a continuous learning procedure. 
+'''while(true){
+  learn()
+}'''
+
 - 👋 Hi, I’m @Jesega
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
