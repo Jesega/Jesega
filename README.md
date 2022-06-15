@@ -1,4 +1,5 @@
-<h2 align="center"> Hi! I'm Jesús Serrano, nice to meet you! 👋 </h2>
+<h2 align="center"> Hi! I'm Jesús Serrano (@Jesega), nice to meet you! 👋 </h2>
+<h3 align="center"> I'm a Junior Software Developer looking forward to learn as much as possible! </h3>
 - 👋 Hi, I’m @Jesega
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
