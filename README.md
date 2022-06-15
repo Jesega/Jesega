@@ -16,10 +16,11 @@ while(true){
 <p>If you want to ask me anything, just try me!</p>
 
 <p align="center">
-<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="50" height="50" width="50" /></a>
-<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="50" height="50" width="50" /></a>
-<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" height="50" width="50" /></a>
-<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="50" height="50" width="50" /></a>
+<a href="mailto:jesus.serrano.gallan@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="50" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jes%C3%BAs-serrano-gall%C3%A1n-b768a3175/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="50" height="50" width="50" /></a>
+<a href="https://twitter.com/Jesega_" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" height="50" width="50" /></a>
+<a href="https://www.instagram.com/jesega_/?hl=es" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="50" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/256367451636236288/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" alt="50" height="50" width="50" /></a>
 </p>
 
 
