@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Jesús Serrano (@Jesega), nice to meet you! 👋 </h1>
-<h3 align="center"> I'm a Junior Software Developer looking forward to learn as much as possible! </h3>
+<h3 align="left"> I'm a Junior Software Developer looking forward to learn as much as possible! </h3>
 
 
 
@@ -10,6 +10,18 @@ while(true){
   learn()
 }
 ```
+
+<h3 align="left"> ✉ How to reach me? </h3>
+
+<p>If you want to ask me anything, just try me!</p>
+
+<p align="center">
+<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="50" height="50" width="50" /></a>
+<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="50" height="50" width="50" /></a>
+<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" height="50" width="50" /></a>
+<a href="your link" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="50" height="50" width="50" /></a>
+</p>
+
 
 - 👋 Hi, I’m @Jesega
 - 👀 I’m interested in ...
