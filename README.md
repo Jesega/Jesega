@@ -48,6 +48,11 @@ while(true){
 
 </p>
 
+<h3 align="left">  📋 Next Projects! </h3>  
+
+- [ ] AutoWordle
+- [ ] Get graphics for POOkemon
+
 <h3 align="left">  My GitHub stats! </h3>  
 <p align="center">    
  
@@ -59,6 +64,7 @@ while(true){
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesega&layout=compact" />
 </a>
 </p>
+
 
 <!---
 Jesega/Jesega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
