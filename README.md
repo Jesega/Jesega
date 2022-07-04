@@ -50,8 +50,9 @@ while(true){
 
 <h3 align="left">  📋 Next Projects! </h3>  
 
-- [ ] AutoWordle
-- [ ] Get graphics for POOkemon
+- [ ] AutoWordle ✏
+- [ ] Get graphics for POOkemon 🔥💧🌱
+- [ ] Music Generator 🎵
 
 <h3 align="left">  My GitHub stats! </h3>  
 <p align="center">    
