@@ -48,6 +48,9 @@ while(true){
 
 </p>
 
+<h3 align="left">  ☑️ Done and interesting projects! (Have a look 👀) </h3> 
+- [TwitchPlaysDarkSouls](https://github.com/Jesega/TwitchPlaysDS)
+
 <h3 align="left">  📋 Next Projects! </h3>  
 
 - [ ] AutoWordle ✏
